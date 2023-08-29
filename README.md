@@ -24,12 +24,6 @@ To start the bot without any complications I made a [Dockerfile](https://github.
 
 For more detailed information I recommend you to look through the [Docker-documentation](https://docs.docker.com/). 
 
-## Contribution [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
-
-This project is licensed under GNU V3, so contributions/pull-requests are welcome. All contributors get listed here.  
-
-**Contributors** 
-- Kevin Riedl ([WSDT](https://github.com/wsdt))
 
 ### How to contribute
 To create new modules or changing/extending the application core, please take a look into following files, which are well commented (Better documentation follows):
